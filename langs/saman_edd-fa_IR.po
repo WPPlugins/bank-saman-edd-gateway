@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bank Saman EDD gateway\n"
+"POT-Creation-Date: 2016-11-13 20:31+0330\n"
+"PO-Revision-Date: 2016-11-13 20:33+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: edd-saman.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: edd-saman.php:26
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: edd-saman.php:36
+msgid "RIAL"
+msgstr "ریال"
+
+#: edd-saman.php:42
+msgid "Saman Gateway"
+msgstr "درگاه پرداخت سامان"
+
+#: edd-saman.php:42
+msgid "Pay with saman gateway"
+msgstr "پرداخت با درگاه  بانک سامان"
+
+#: edd-saman.php:84
+msgid "If you have not redirected click here"
+msgstr "در صورتی عدم انتقال اینجا کلیک کنید"
+
+#: edd-saman.php:150
+msgid "<strong>Saman Setting</strong>"
+msgstr "تنظیمات بانک سامان"
+
+#: edd-saman.php:151
+msgid "Setting Saman Bank"
+msgstr "پیکربندی درگاه پرداخت بانک سامان"
+
+#: edd-saman.php:156
+msgid "Merchant code"
+msgstr "کد پزیرنده"
+
+#: edd-saman.php:163
+msgid "Merchant pass"
+msgstr "رمز پذیرنده"
+
+#. Plugin Name of the plugin/theme
+msgid "Bank Saman EDD gateway"
+msgstr "درگاه پرداخت بانک سامان برای EDD"
+
+#. Plugin URI of the plugin/theme
+msgid "http://pamjad.me/saman-getway-edd"
+msgstr "http://pamjad.me/saman-getway-edd"
+
+#. Description of the plugin/theme
+msgid "Add Bank Saman gateway to easy digital downloads"
+msgstr "افزودن درگاه پرداخت بانک سامان به  افزونه دانلود در ازای پرداخت"
+
+#. Author of the plugin/theme
+msgid "Pouriya Amjadzadeh"
+msgstr "پوریا امجدزاده"
+
+#. Author URI of the plugin/theme
+msgid "http://pamjad.me"
+msgstr "http://pamjad.me"
